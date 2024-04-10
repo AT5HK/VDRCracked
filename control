@@ -1,0 +1,9 @@
+Package: com.yourcompany.voicedreamcracked
+Name: VoiceDreamCracked
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: AT5HK
+Author: AT5HK
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
